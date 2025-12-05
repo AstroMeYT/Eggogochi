@@ -14,4 +14,4 @@ The main objective of the game is to take care of your pet without it losing all
 It is meant to be pretty hard due to the fact that some pets are very hard to take care of, especially when juggling with other aspects of life.
 
 ## Compiling
-There are multiple compiling options using the proveded
+There are multiple compiling options using the proveded ```Eggogochi.sb3``` file. You must run it through the TurboWarp Packager to get a protable HTML file, Node.js-based executables, or Electron executables. Executables can be built for Windows, MacOS, or Linux using the TurboWarp Packager.
