@@ -13,4 +13,5 @@ The main objective of the game is to take care of your pet without it losing all
 
 It is meant to be pretty hard due to the fact that some pets are very hard to take care of, especially when juggling with other aspects of life.
 
-## 
+## Compiling
+There are multiple compiling options using the proveded
