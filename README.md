@@ -1,6 +1,6 @@
 # Eggogochi
 Version 1.0
-Created by Gatlin Nicholson
+Created by Gatlin Nicholson and Bricyn Cassagne
 
 ## How to use
 There will be an introduction at the start, explaining how you found your pet. After, you will name your pet. When you get into the main screen, there will be buttons on the left, and statistics about your pet on the right.
