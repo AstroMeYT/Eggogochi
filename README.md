@@ -18,5 +18,5 @@ It is meant to be pretty hard due to the fact that some pets are very hard to ta
 There are multiple compiling options using the proveded ```Eggogochi.sb3``` file. You must run it through the TurboWarp Packager to get a protable HTML file, Node.js-based executables, or Electron executables. Executables can be built for Windows, MacOS, or Linux using the TurboWarp Packager.
 
 ## Version History
-Version 1.0.0225 - UI element additions and small bug fixes
-Version 1.0 - Initial release
+- Version 1.0.0225 - UI element additions and small bug fixes
+- Version 1.0 - Initial release
